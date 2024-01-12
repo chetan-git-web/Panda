@@ -26,14 +26,14 @@ const HeaderComp = () => {
             </div>
             <div className="mt-[64px] mx-[221px]">
                 <nav className=" flex item-center justify-between">
-                    <a className="text-[13px]">Missions De PANDA</a>
-                    <a className="text-[13px]">Fonctionnalités</a>
-                    <a className="text-[13px]">Experts</a>
-                    <a className="text-[13px]">Organisations En Afrique</a>
-                    <a className="text-[13px]">Offres d'emploi</a>
-                    <a className="text-[13px]">Evénements ä venir</a>
-                    <a className="text-[13px]">Témoignages</a>
-                    <a className="text-[13px]">Fondateurs</a>
+                    <a className="text-[13px] cursor-pointer">Missions De PANDA</a>
+                    <a className="text-[13px] cursor-pointer">Fonctionnalités</a>
+                    <a className="text-[13px] cursor-pointer">Experts</a>
+                    <a className="text-[13px] cursor-pointer">Organisations En Afrique</a>
+                    <a className="text-[13px] cursor-pointer">Offres d'emploi</a>
+                    <a className="text-[13px] cursor-pointer">Evénements ä venir</a>
+                    <a className="text-[13px] cursor-pointer">Témoignages</a>
+                    <a className="text-[13px] cursor-pointer">Fondateurs</a>
                 </nav>
             </div>
         </header>
